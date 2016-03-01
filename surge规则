@@ -1,0 +1,13 @@
+qingjie.me
+能版：白名单+黑名单+过滤规则；
+精简版：过滤规则；
+
+*白名单指的是国内的常见域名名单；
+*黑名单反之国外常用域名;
+*tcp-fast-open=true：指的是快速打开(仅限linux客户端)
+*增加null = http,null,1234并无什么问题，只是为了保留服务器安全
+全能版
+https://o2kpvanmz.qnssl.com/rules_public.conf
+精简版
+https://o2kpvanmz.qnssl.com/rules_public_s.conf
+
